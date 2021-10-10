@@ -14,10 +14,11 @@ Paper on arxiv: https://arxiv.org/abs/2107.13389
 
 Citation:
 ```
-@article{ramamonjison2021simrod,
+@inproceedings{ramamonjison2021simrod,
   title={SimROD: A Simple Adaptation Method for Robust Object Detection},
   author={Ramamonjison, Rindra and Banitalebi-Dehkordi, Amin and Kang, Xinyu and Bai, Xiaolong and Zhang, Yong},
-  journal={arXiv preprint arXiv:2107.13389},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={3570--3579},
   year={2021}
 }
 ```
